@@ -1,0 +1,8 @@
+text
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+sqlite3
+sqlalchemy
