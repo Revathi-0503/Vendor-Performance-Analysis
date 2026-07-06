@@ -127,16 +127,15 @@ This project answers important business questions such as:
 - Continuously monitor vendor KPIs using Power BI dashboards.
 
 ---
-
-## 📈 Dashboard Preview
+## 📊 Dashboard Preview
 
 ### Dashboard Overview
 
-![Dashboard Overview](dashboard/Dashboard_Overview.png)
+[![Dashboard Overview](dashboard/Dashboard_Overview.png)](dashboard/Dashboard_Overview.png)
 
 ### Dashboard Insights
 
-![Dashboard Insights](dashboard/Dashboard_Insights.png)
+[![Dashboard Insights](dashboard/Dashboard_Insights.png)](dashboard/Dashboard_Insights.png)
 
 ---
 
